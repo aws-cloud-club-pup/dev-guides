@@ -1,18 +1,4 @@
-Based on your screenshot, I can see you have a well-organized dev-guides repository with the following structure:
-
-```
-dev-guides/
-├── prompts/
-├── setup/
-│   ├── docker-guide.md
-│   ├── git-gh-dev-guide.md
-│   └── local-dev-setup.md
-└── README.md
-```
-
-Here's an updated README that matches your current structure:
-
-# dev-guides
+# Development Guides
 
 Compilation of development guides, setup instructions, and best practices for the AWSCCPUP Development Team. This repository serves as your one-stop resource for getting started and staying aligned with our development standards.
 
